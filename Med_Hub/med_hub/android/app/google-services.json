@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "451312401193",
+    "project_id": "medi-hub-d69a8",
+    "storage_bucket": "medi-hub-d69a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451312401193:android:2d66c483550bc61efad538",
+        "android_client_info": {
+          "package_name": "com.example.med_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANNi9pJdXpLgYFt9x9t4p6800Xrs_lRc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
